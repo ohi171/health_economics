@@ -1,8 +1,8 @@
-# Health Economics Projects
+# IPV: Healthcare Contact, Partner Control, and Formal Help-Seeking
 
-This repository contains reproducible exercises and research prototypes in health economics.
+This repository contains a reproducible simulation and analysis tutorial for a proposed study of intimate partner violence, healthcare contact, and formal help-seeking.
 
-## Project 1: Healthcare contact, partner control, and formal help-seeking
+## Research exercise
 
 ### Research question
 
